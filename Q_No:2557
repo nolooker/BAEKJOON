@@ -1,0 +1,11 @@
+//1-1 문제번호:2557 [입출력과 사칙연산 - Hello World]
+
+// Hello World! 출력
+
+public class Main {
+  public static void main(String[] args) {
+
+    System.out.print("Hello World!");
+
+  }
+}
